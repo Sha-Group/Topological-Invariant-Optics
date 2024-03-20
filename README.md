@@ -9,3 +9,7 @@ Topological Invariant Calculation for Photonic Crystals Including Chern Number a
 
 2.  Menglin L.N. Chen, Li Jun Jiang, Shuang Zhang, Ran Zhao, Zhihao Lan, and Wei E.I. Sha, “[Comparative Study of Hermitian and Non-Hermitian Topological Dielectric Photonic Crystals](https://doi.org/10.1103/PhysRevA.104.033501),” Physical Review A, vol. 104, pp. 033501, Sep. 2021.
 
+## MATLAB Files
+FD_PCs_ChernNumber_Ex2/3.m:  Chern number calculation in Gyrotropic photonic crystals with generalized finite-difference method
+
+FD_PCs_Wilson_loop.m:  Wilson loop calculation in Hermitian and non-Hermitian dielectric photonic crystals with generalized finite-difference method
