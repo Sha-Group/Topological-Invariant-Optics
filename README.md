@@ -1,4 +1,4 @@
-![image](https://github.com/Sha-Group/Topological-Invariant-Optics/assets/47367512/e737264d-9252-4de0-98b5-b51b7ef50c1a)# Topological-Invariant-Optics
+# Topological-Invariant-Optics
 Topological Invariant Calculation for Photonic Crystals Including Chern Number and Wilson Loop
 
 ![License](https://img.shields.io/badge/license-GPL3.0-orange)
@@ -15,5 +15,6 @@ FD_PCs_ChernNumber_Ex2/3.m:  Chern number calculation in Gyrotropic photonic cry
 FD_PCs_Wilson_loop.m:  Wilson loop calculation in Hermitian and non-Hermitian dielectric photonic crystals with generalized finite-difference method
 
 ## Collaborators
-[Dr. Menglin CHEN](https://menglin-c.github.io) at Hong Kong Polytechnic University 
+[Dr. Menglin CHEN](https://menglin-c.github.io) at Hong Kong Polytechnic University
+
 [Dr. Ran Zhao](https://faculty.uestc.edu.cn/zhaoran/zh_CN/jsxx/478933/jsxx/jsxx.htm) at University of Electronic Science and Technology of China
