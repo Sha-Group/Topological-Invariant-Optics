@@ -15,4 +15,4 @@ FD_PCs_ChernNumber_Ex2/3.m:  Chern number calculation in Gyrotropic photonic cry
 FD_PCs_Wilson_loop.m:  Wilson loop calculation in Hermitian and non-Hermitian dielectric photonic crystals with generalized finite-difference method
 
 ## Collaborators
-[Menglin CHEN](https://menglin-c.github.io) at Hong Kong Polytechnic University 
+[Dr. Menglin CHEN](https://menglin-c.github.io) at Hong Kong Polytechnic University 
